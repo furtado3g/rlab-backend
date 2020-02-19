@@ -1,0 +1,15 @@
+{
+  "name": "rlab_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "furtado3g <lucas_shiguioka@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "socket-io": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
